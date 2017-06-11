@@ -1,4 +1,4 @@
-# Minecraft : Pocket Edition Server Software List (2017.6.11 v1.5)
+# Minecraft : Pocket Edition Server Software List (2017.6.11 v2.0)
 __You are allow to create issues to let me know the new server software that you found in Github__
 __If the server software almost one month didn't update it will be mark as discontinued__
 
@@ -23,6 +23,9 @@ __If the server software almost one month didn't update it will be mark as disco
 * __[Apollo](https://github.com/caspervanneck/Apollo)__
 * __[ClearSky](https://github.com/ClearSkyTeam/ClearSky)__
 * __[T-STAR](https://github.com/TaleStar/T-STAR)__
+* __[Prismarine](https://github.com/PrismarineMC/Prismarine)__
+* __[Prismarine-0.12](https://github.com/PrismarineMC/Prismarine-0.12)__
+* __[PocketMinePlusPlus-Legacy](https://github.com/PrismarineMC/PocketMinePlusPlus-Legacy)__
 
 ## Server Software written in Java
 ### Still Active
@@ -33,7 +36,29 @@ __If the server software almost one month didn't update it will be mark as disco
 ### Discontinued
 * __[Voxelwind](https://github.com/voxelwind/voxelwind)__
 * __[Dragonet-Legacy](https://github.com/DragonetMC/Dragonet-Legacy)__
+* __[MagmaBlock](https://github.com/PrismarineMC/MagmaBlock)__
+* __[MCPEBukkit](https://github.com/MCPEBukkit/MCPEBukkit)__
+* __[MineTurtle](https://github.com/MCPEBukkit/MineTurtle)__
 
 ## Server Software written in C#
 ### Still Active
 * __[MiNET](https://github.com/NiclasOlofsson/MiNET)__
+### Discontinued
+* __[ZhyCore](https://github.com/ZhyTeam/ZhyCore)__
+
+## Server Software written in JavaScript
+### Still Active
+
+### Discontinued
+* __[Numerous-alpaca](https://github.com/numerous-alpaca/numerous-alpaca)__
+
+## Server Software written in Python
+### Still Active
+
+### Discontinued
+* __[Python-mcpe](https://github.com/python-mcpe/python-mcpe)__
+
+## Server Software written in D
+### Still Active
+* __[Sel-servere](https://github.com/sel-project/sel-server)__
+### Discontinued
