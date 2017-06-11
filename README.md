@@ -22,6 +22,7 @@ __If the server software almost one month didn't update it will be mark as disco
 * __[FuryMine](https://github.com/XFuryMCPE/FuryMine)__
 * __[Apollo](https://github.com/caspervanneck/Apollo)__
 * __[ClearSky](https://github.com/ClearSkyTeam/ClearSky)__
+* __[T-STAR](https://github.com/TaleStar/T-STAR)__
 
 ## Server Software written in Java
 ### Still Active
