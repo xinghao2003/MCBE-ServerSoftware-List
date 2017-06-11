@@ -1,4 +1,4 @@
-# Minecraft : Pocket Edition Server Software List (Last Update : 2017.6.11)
+# Minecraft : Pocket Edition Server Software List (2017.6.11)
 __You are allow to create issues to let me know the new server software that you found in Github__
 
 ## Server Software written in PHP
