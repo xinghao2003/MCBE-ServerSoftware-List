@@ -1,6 +1,5 @@
-# Minecraft : Pocket Edition Server Software List (2017.6.11 v2.0)
-__You are allow to create issues to let me know the new server software that you found in Github__
-__If the server software almost one month didn't update it will be mark as discontinued__
+# Minecraft : Pocket Edition Server Software List (2017.6.11 v2.1)
+__You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued__
 
 ## Server Software written in PHP
 ### Still Active
@@ -26,6 +25,7 @@ __If the server software almost one month didn't update it will be mark as disco
 * __[Prismarine](https://github.com/PrismarineMC/Prismarine)__
 * __[Prismarine-0.12](https://github.com/PrismarineMC/Prismarine-0.12)__
 * __[PocketMinePlusPlus-Legacy](https://github.com/PrismarineMC/PocketMinePlusPlus-Legacy)__
+* __[IPECore](https://github.com/XFizzer/IPECore)__
 
 ## Server Software written in Java
 ### Still Active
@@ -51,6 +51,8 @@ __If the server software almost one month didn't update it will be mark as disco
 
 ### Discontinued
 * __[Numerous-alpaca](https://github.com/numerous-alpaca/numerous-alpaca)__
+* __[DirtServer](https://github.com/Falkirks/DirtServer)__
+* __[NodeMine](https://github.com/NodeMine/NodeMine)__
 
 ## Server Software written in Python
 ### Still Active
@@ -60,5 +62,11 @@ __If the server software almost one month didn't update it will be mark as disco
 
 ## Server Software written in D
 ### Still Active
-* __[Sel-servere](https://github.com/sel-project/sel-server)__
+* __[Sel-server](https://github.com/sel-project/sel-server)__
 ### Discontinued
+
+## Server Software written in Lua
+### Still Active
+
+### Discontinued
+* __[LuaMine](https://github.com/LuaMine/LuaMine)__
