@@ -1,4 +1,4 @@
-# Minecraft : Pocket Edition Server Software List (2017.6.12 v1.0)
+# Minecraft : Pocket Edition Server Software List (2017.6.12 v1.1)
 __You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued__
 
 ## Server Software written in PHP
@@ -32,6 +32,7 @@ __You are allow to create issues to let me know the new server software that you
 * __[Freven](https://github.com/FrevenTeam/Freven)__
 * __[CoreminePE](https://github.com/starfury1927/CoreminePE)__
 * __[DevMine](https://github.com/MineCode-Devs/DevMine)__
+* __[Steadfast-Hybrid](https://github.com/yungtechboy1/Steadfast-Hybrid)__
 
 ## Server Software written in Java
 ### Still Active
@@ -46,6 +47,7 @@ __You are allow to create issues to let me know the new server software that you
 * __[MCPEBukkit](https://github.com/MCPEBukkit/MCPEBukkit)__
 * __[MineTurtle](https://github.com/MCPEBukkit/MineTurtle)__
 * __[SpiderMine](https://github.com/QuantumWorks/SpiderMine)__
+* __[DiamondCore](https://github.com/yungtechboy1/DiamondCore)__
 
 ## Server Software written in C#
 ### Still Active
@@ -68,6 +70,7 @@ __You are allow to create issues to let me know the new server software that you
 ### Discontinued
 * __[Python-mcpe](https://github.com/python-mcpe/python-mcpe)__
 * __[Neos](https://github.com/daniktheboss/Neos)__
+* __[AlphaMC](https://github.com/Suppert/AlphaMC)__
 
 ## Server Software written in D
 ### Still Active
