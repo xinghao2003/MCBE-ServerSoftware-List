@@ -1,11 +1,11 @@
-# Minecraft : Pocket Edition Server Software List (2017.6.11 v2.1)
+# Minecraft : Pocket Edition Server Software List (2017.6.12 v1.0)
 __You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued__
 
 ## Server Software written in PHP
 ### Still Active
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
 * __[Cookie-MP](https://github.com/CookieSoftware/Cookie-MP)__
-* __[TesseractMP](https://github.com/AppleDevelops/TesseractPM)__
+* __[TesseractPM](https://github.com/AppleDevelops/TesseractPM)__
 * __[Arufa-2.0](https://github.com/Pizzahaet/Arufa-2.0)__
 * __[Rocky](https://github.com/rockySoftware/Rocky)__
 * __[Tesseract](https://github.com/TesseractTeam/Tesseract)__
@@ -14,6 +14,8 @@ __You are allow to create issues to let me know the new server software that you
 * __[StarrySky](https://github.com/StarrySky-PE/StarrySky)__
 * __[GenisysPro](https://github.com/GenisysPro/GenisysPro)__
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
+* __[DimensionsMP](https://github.com/DimensionsPE/DimensionsMP)__
+* __[PocketMine-M3](https://github.com/FrontierDevs/PocketMine-M3)__
 ### Discontinued
 * __[Arufa](https://github.com/Jonathanftw/Arufa)__
 * __[Genisys](https://github.com/iTXTech/Genisys)__
@@ -26,6 +28,10 @@ __You are allow to create issues to let me know the new server software that you
 * __[Prismarine-0.12](https://github.com/PrismarineMC/Prismarine-0.12)__
 * __[PocketMinePlusPlus-Legacy](https://github.com/PrismarineMC/PocketMinePlusPlus-Legacy)__
 * __[IPECore](https://github.com/XFizzer/IPECore)__
+* __[MechNetwork](https://github.com/MechRalph04/MechNetwork)__
+* __[Freven](https://github.com/FrevenTeam/Freven)__
+* __[CoreminePE](https://github.com/starfury1927/CoreminePE)__
+* __[DevMine](https://github.com/MineCode-Devs/DevMine)__
 
 ## Server Software written in Java
 ### Still Active
@@ -39,12 +45,14 @@ __You are allow to create issues to let me know the new server software that you
 * __[MagmaBlock](https://github.com/PrismarineMC/MagmaBlock)__
 * __[MCPEBukkit](https://github.com/MCPEBukkit/MCPEBukkit)__
 * __[MineTurtle](https://github.com/MCPEBukkit/MineTurtle)__
+* __[SpiderMine](https://github.com/QuantumWorks/SpiderMine)__
 
 ## Server Software written in C#
 ### Still Active
 * __[MiNET](https://github.com/NiclasOlofsson/MiNET)__
 ### Discontinued
 * __[ZhyCore](https://github.com/ZhyTeam/ZhyCore)__
+* __[NetherServ](https://github.com/protosleep/NetherServ)__
 
 ## Server Software written in JavaScript
 ### Still Active
@@ -59,6 +67,7 @@ __You are allow to create issues to let me know the new server software that you
 
 ### Discontinued
 * __[Python-mcpe](https://github.com/python-mcpe/python-mcpe)__
+* __[Neos](https://github.com/daniktheboss/Neos)__
 
 ## Server Software written in D
 ### Still Active
@@ -70,3 +79,15 @@ __You are allow to create issues to let me know the new server software that you
 
 ### Discontinued
 * __[LuaMine](https://github.com/LuaMine/LuaMine)__
+
+## Server Software written in Ruby
+### Still Active
+
+### Discontinued
+* __[EvilArk-Soft](https://github.com/Asparanc/EvilArk-Soft)__
+
+## Server Software written in Go
+### Still Active
+
+### Discontinued
+* __[Rockit-LMS](https://github.com/cr0sh/Rockit-LMS)__
