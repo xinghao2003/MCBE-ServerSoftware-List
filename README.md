@@ -1,4 +1,4 @@
-# Minecraft : Pocket Edition Server Software List (2017.6.12 v1.2)
+# Minecraft : Pocket Edition Server Software List (2017.6.12 v1.3)
 __You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued__
 
 ## Server Software written in PHP
@@ -17,6 +17,7 @@ __You are allow to create issues to let me know the new server software that you
 * __[DimensionsMP](https://github.com/DimensionsPE/DimensionsMP)__
 * __[PocketMine-M3](https://github.com/FrontierDevs/PocketMine-M3)__
 * __[ElywingReactive](https://github.com/ElywingReactive/ElywingReactive)__
+* __[Spigotpe](https://github.com/spigotpe-beta/Spigotpe)__
 ### Discontinued
 * __[Arufa](https://github.com/Jonathanftw/Arufa)__
 * __[Genisys](https://github.com/iTXTech/Genisys)__
