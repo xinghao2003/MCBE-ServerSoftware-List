@@ -8,7 +8,6 @@ __You are allow to create issues to let me know the new server software that you
 * __[TesseractPM](https://github.com/AppleDevelops/TesseractPM)__
 * __[Arufa-2.0](https://github.com/Pizzahaet/Arufa-2.0)__
 * __[Rocky](https://github.com/rockySoftware/Rocky)__
-* __[Tesseract](https://github.com/TesseractTeam/Tesseract)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
 * __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
 * __[StarrySky](https://github.com/StarrySky-PE/StarrySky)__
@@ -19,6 +18,8 @@ __You are allow to create issues to let me know the new server software that you
 * __[ElywingReactive](https://github.com/ElywingReactive/ElywingReactive)__
 * __[Spigotpe](https://github.com/spigotpe-beta/Spigotpe)__
 ### Discontinued
+* __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
+* __[Tesseract](https://github.com/TesseractTeam/Tesseract)__
 * __[Arufa](https://github.com/Jonathanftw/Arufa)__
 * __[Genisys](https://github.com/iTXTech/Genisys)__
 * __[Elywing](https://github.com/H4PM/Elywing)__
