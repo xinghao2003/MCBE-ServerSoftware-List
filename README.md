@@ -5,6 +5,7 @@ __You are allow to create issues to let me know the new server software that you
 ### Still Active
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
 * __[Cookie-MP](https://github.com/CookieSoftware/Cookie-MP)__
+* __[Tesseract](https://github.com/CookieSoftware/Tesseract)__
 * __[Arufa-2.0](https://github.com/Pizzahaet/Arufa-2.0)__
 * __[Rocky](https://github.com/rockySoftware/Rocky)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
@@ -19,7 +20,6 @@ __You are allow to create issues to let me know the new server software that you
 ### Discontinued
 * __[TesseractPM](https://github.com/AppleDevelops/TesseractPM)__
 * __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
-* __[Tesseract](https://github.com/TesseractTeam/Tesseract)__
 * __[Arufa](https://github.com/Jonathanftw/Arufa)__
 * __[Genisys](https://github.com/iTXTech/Genisys)__
 * __[Elywing](https://github.com/H4PM/Elywing)__
