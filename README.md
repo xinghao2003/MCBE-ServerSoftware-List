@@ -1,4 +1,4 @@
-# Minecraft : Pocket Edition Server Software List (2017.6.14 v1.4)
+# Minecraft : Pocket Edition Server Software List (2017.6.17)
 __You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued__
 
 ## Server Software written in PHP
@@ -17,6 +17,7 @@ __You are allow to create issues to let me know the new server software that you
 * __[PocketMine-M3](https://github.com/FrontierDevs/PocketMine-M3)__
 * __[ElywingReactive](https://github.com/ElywingReactive/ElywingReactive)__
 * __[Spigotpe](https://github.com/spigotpe-beta/Spigotpe)__
+* __[ImagicalMineReactive](https://github.com/ImagicalMineReactive/ImagicalMine)__
 ### Discontinued
 * __[TesseractPM](https://github.com/AppleDevelops/TesseractPM)__
 * __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
@@ -36,6 +37,7 @@ __You are allow to create issues to let me know the new server software that you
 * __[CoreminePE](https://github.com/starfury1927/CoreminePE)__
 * __[DevMine](https://github.com/MineCode-Devs/DevMine)__
 * __[Steadfast-Hybrid](https://github.com/yungtechboy1/Steadfast-Hybrid)__
+* __[ImagicalMine](https://github.com/ImagicalMine/ImagicalMine)__
 
 ## Server Software written in Java
 ### Still Active
