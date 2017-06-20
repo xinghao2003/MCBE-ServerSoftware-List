@@ -1,4 +1,4 @@
-# Minecraft : Pocket Edition Server Software List (2017.6.18)
+# Minecraft : Pocket Edition Server Software List (2017.6.20)
 __You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued__
 
 ## Server Software written in PHP
@@ -45,9 +45,9 @@ __You are allow to create issues to let me know the new server software that you
 ### Still Active
 * __[Nukkit](https://github.com/Nukkit/Nukkit)__
 * __[Jupiter](https://github.com/JupiterDevelopmentTeam/JupiterDevelopmentTeam)__
-* __[BukkitPE](https://github.com/BukkitPE/BukkitPE)__
 * __[Dragonet](https://github.com/DragonetMC/Dragonet)__
 ### Discontinued
+* __[BukkitPE](https://github.com/BukkitPE/BukkitPE)__
 * __[Voxelwind](https://github.com/voxelwind/voxelwind)__
 * __[Dragonet-Legacy](https://github.com/DragonetMC/Dragonet-Legacy)__
 * __[MagmaBlock](https://github.com/PrismarineMC/MagmaBlock)__
