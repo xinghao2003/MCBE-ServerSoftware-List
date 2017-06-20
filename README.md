@@ -19,6 +19,7 @@ __You are allow to create issues to let me know the new server software that you
 * __[ElywingReactive](https://github.com/ElywingReactive/ElywingReactive)__
 * __[Spigotpe](https://github.com/spigotpe-beta/Spigotpe)__
 * __[ImagicalMineReactive](https://github.com/ImagicalMineReactive/ImagicalMine)__
+* __[NekoMine-MP](https://github.com/Nekiechan/NekoMine-MP)__
 ### Discontinued
 * __[TesseractPM](https://github.com/AppleDevelops/TesseractPM)__
 * __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
