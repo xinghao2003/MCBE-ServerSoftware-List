@@ -8,14 +8,10 @@ __You are allow to create issues to let me know the new server software that you
 * __[TSP](https://github.com/CookieSoftware/TSP)__
 * __[Tesseract](https://github.com/TesseractTeam/Tesseract)__
 * __[Arufa-2.0](https://github.com/Pizzahaet/Arufa-2.0)__
-* __[Rocky](https://github.com/rockySoftware/Rocky)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
-* __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
 * __[StarrySky](https://github.com/StarrySky-PE/StarrySky)__
 * __[GenisysPro](https://github.com/GenisysPro/GenisysPro)__
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
-* __[DimensionsMP](https://github.com/DimensionsPE/DimensionsMP)__
-* __[PocketMine-M3](https://github.com/FrontierDevs/PocketMine-M3)__
 * __[ElywingReactive](https://github.com/ElywingReactive/ElywingReactive)__
 * __[Spigotpe](https://github.com/spigotpe-beta/Spigotpe)__
 * __[ImagicalMineReactive](https://github.com/ImagicalMineReactive/ImagicalMine)__
@@ -40,6 +36,10 @@ __You are allow to create issues to let me know the new server software that you
 * __[DevMine](https://github.com/MineCode-Devs/DevMine)__
 * __[Steadfast-Hybrid](https://github.com/yungtechboy1/Steadfast-Hybrid)__
 * __[ImagicalMine](https://github.com/ImagicalMine/ImagicalMine)__
+* __[Rocky](https://github.com/rockySoftware/Rocky)__
+* __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
+* __[DimensionsMP](https://github.com/DimensionsPE/DimensionsMP)__
+* __[PocketMine-M3](https://github.com/FrontierDevs/PocketMine-M3)__
 
 ## Server Software written in Java
 ### Still Active
@@ -101,3 +101,13 @@ __You are allow to create issues to let me know the new server software that you
 
 ### Discontinued
 * __[Rockit-LMS](https://github.com/cr0sh/Rockit-LMS)__
+
+## Server Software written in Rust
+### Still Active
+### Discontinued
+* __[Limonite](https://github.com/iTXTech/limonite)__
+
+## Server Software written in C++
+### Still Active
+### Discontinued
+* __[Cenisys](https://github.com/iTXTech/Cenisys)__
