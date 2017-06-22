@@ -27,7 +27,6 @@ __You are allow to create issues to let me know the new server software that you
 * __[Prismarine](https://github.com/PrismarineMC/Prismarine)__
 * __[Prismarine-0.12](https://github.com/PrismarineMC/Prismarine-0.12)__
 * __[PocketMinePlusPlus-Legacy](https://github.com/PrismarineMC/PocketMinePlusPlus-Legacy)__
-* __[IPECore](https://github.com/XFizzer/IPECore)__
 * __[MechNetwork](https://github.com/MechRalph04/MechNetwork)__
 * __[Freven](https://github.com/FrevenTeam/Freven)__
 * __[CoreminePE](https://github.com/starfury1927/CoreminePE)__
