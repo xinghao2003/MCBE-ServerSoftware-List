@@ -7,6 +7,7 @@ __You are allow to create issues to let me know the new server software that you
 * __[Cookie-MP](https://github.com/CookieSoftware/Cookie-MP)__
 * __[TSP](https://github.com/CookieSoftware/TSP)__
 * __[Tesseract](https://github.com/TesseractTeam/Tesseract)__
+* __[Leveryl](https://github.com/LeverylTeam/Leveryl)__
 * __[Arufa-2.0](https://github.com/Pizzahaet/Arufa-2.0)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
 * __[StarrySky](https://github.com/StarrySky-PE/StarrySky)__
