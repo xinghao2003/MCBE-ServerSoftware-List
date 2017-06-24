@@ -1,4 +1,4 @@
-# Minecraft : Pocket Edition Server Software List (2017.6.20)
+# Minecraft : Pocket Edition Server Software List (2017.6.24)
 __You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued__
 
 ## Server Software written in PHP
@@ -14,6 +14,7 @@ __You are allow to create issues to let me know the new server software that you
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
 * __[ElywingReactive](https://github.com/ElywingReactive/ElywingReactive)__
 * __[NekoMine-MP](https://github.com/Nekiechan/NekoMine-MP)__
+* __[Hydracon](https://github.com/E-DevPM/Hydracon)__
 ### Discontinued
 * __[TesseractPM](https://github.com/AppleDevelops/TesseractPM)__
 * __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
