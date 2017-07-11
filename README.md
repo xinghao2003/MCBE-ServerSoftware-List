@@ -1,4 +1,4 @@
-# Minecraft : Pocket Edition Server Software List (2017.6.24)
+# Minecraft : Pocket Edition Server Software List (2017.7.11)
 __You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued.__
 
 ## Donate (When reach 30$ I will remove it)
@@ -7,18 +7,12 @@ __You are allow to create issues to let me know the new server software that you
 ## Server Software written in PHP
 ### Still Active
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
-* __[Cookie-MP](https://github.com/CookieSoftware/Cookie-MP)__
 * __[TSP](https://github.com/CookieSoftware/TSP)__
 * __[Tesseract](https://github.com/TesseractTeam/Tesseract)__
 * __[Leveryl](https://github.com/LeverylTeam/Leveryl)__
-* __[Arufa-2.0](https://github.com/Pizzahaet/Arufa-2.0)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
-* __[StarrySky](https://github.com/StarrySky-PE/StarrySky)__
 * __[GenisysPro](https://github.com/GenisysPro/GenisysPro)__
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
-* __[ElywingReactive](https://github.com/ElywingReactive/ElywingReactive)__
-* __[NekoMine-MP](https://github.com/Nekiechan/NekoMine-MP)__
-* __[Hydracon](https://github.com/E-DevPM/Hydracon)__
 ### Discontinued
 * __[TesseractPM](https://github.com/AppleDevelops/TesseractPM)__
 * __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
@@ -42,6 +36,10 @@ __You are allow to create issues to let me know the new server software that you
 * __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
 * __[DimensionsMP](https://github.com/DimensionsPE/DimensionsMP)__
 * __[PocketMine-M3](https://github.com/FrontierDevs/PocketMine-M3)__
+* __[Cookie-MP](https://github.com/CookieSoftware/Cookie-MP)__
+* __[StarrySky](https://github.com/StarrySky-PE/StarrySky)__
+* __[NekoMine-MP](https://github.com/Nekiechan/NekoMine-MP)__
+* __[Hydracon](https://github.com/E-DevPM/Hydracon)__
 
 ## Server Software written in Java
 ### Still Active
