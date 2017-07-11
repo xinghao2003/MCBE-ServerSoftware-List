@@ -45,7 +45,6 @@ __You are allow to create issues to let me know the new server software that you
 ### Still Active
 * __[Nukkit](https://github.com/Nukkit/Nukkit)__
 * __[Jupiter](https://github.com/JupiterDevelopmentTeam/JupiterDevelopmentTeam)__
-* __[Dragonet](https://github.com/DragonetMC/Dragonet)__
 ### Discontinued
 * __[BukkitPE](https://github.com/BukkitPE/BukkitPE)__
 * __[Voxelwind](https://github.com/voxelwind/voxelwind)__
@@ -55,6 +54,7 @@ __You are allow to create issues to let me know the new server software that you
 * __[MineTurtle](https://github.com/MCPEBukkit/MineTurtle)__
 * __[SpiderMine](https://github.com/QuantumWorks/SpiderMine)__
 * __[DiamondCore](https://github.com/yungtechboy1/DiamondCore)__
+* __[Dragonet](https://github.com/DragonetMC/Dragonet)__
 
 ## Server Software written in C#
 ### Still Active
