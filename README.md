@@ -38,6 +38,7 @@ __You are allow to create issues to let me know the new server software that you
 * __[Cookie-MP](https://github.com/CookieSoftware/Cookie-MP)__
 * __[StarrySky](https://github.com/StarrySky-PE/StarrySky)__
 * __[Hydracon](https://github.com/E-DevPM/Hydracon)__
+* __[Tesseract](https://github.com/TesseractTeam/Tesseract)__
 
 ## Server Software written in Java
 ### Still Active
