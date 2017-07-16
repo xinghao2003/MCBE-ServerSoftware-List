@@ -1,4 +1,4 @@
-# Minecraft : Pocket Edition Server Software List (2017.7.13)
+# Minecraft : Pocket Edition Server Software List (2017.7.16)
 __You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued.__
 
 ## Donate (When reach 30$ I will remove it)
@@ -110,3 +110,4 @@ __You are allow to create issues to let me know the new server software that you
 ### Still Active
 ### Discontinued
 * __[Cenisys](https://github.com/iTXTech/Cenisys)__
+* __[CenisysPro](https://github.com/GenisysPro/CenisysPro)__
