@@ -12,6 +12,7 @@ __You are allow to create issues to let me know the new server software that you
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
 * __[GenisysPro](https://github.com/GenisysPro/GenisysPro)__
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
+* __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
 ### Discontinued
 * __[TesseractPM](https://github.com/AppleDevelops/TesseractPM)__
 * __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
@@ -32,7 +33,6 @@ __You are allow to create issues to let me know the new server software that you
 * __[Steadfast-Hybrid](https://github.com/yungtechboy1/Steadfast-Hybrid)__
 * __[ImagicalMine](https://github.com/ImagicalMine/ImagicalMine)__
 * __[Rocky](https://github.com/rockySoftware/Rocky)__
-* __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
 * __[DimensionsMP](https://github.com/DimensionsPE/DimensionsMP)__
 * __[PocketMine-M3](https://github.com/FrontierDevs/PocketMine-M3)__
 * __[Cookie-MP](https://github.com/CookieSoftware/Cookie-MP)__
