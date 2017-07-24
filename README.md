@@ -1,4 +1,4 @@
-# Minecraft : Pocket Edition Server Software List (2017.7.16)
+# Minecraft : Pocket Edition Server Software List (2017.7.24)
 __You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued.__
 
 ## Donate (When reach 30$ I will remove it)
@@ -13,9 +13,9 @@ __You are allow to create issues to let me know the new server software that you
 * __[GenisysPro](https://github.com/GenisysPro/GenisysPro)__
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
 * __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
-### Discontinued
-* __[TesseractPM](https://github.com/AppleDevelops/TesseractPM)__
+* __[Tesseract](https://github.com/TesseractTeam/Tesseract)__
 * __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
+### Discontinued
 * __[Arufa](https://github.com/Jonathanftw/Arufa)__
 * __[Genisys](https://github.com/iTXTech/Genisys)__
 * __[Elywing](https://github.com/H4PM/Elywing)__
@@ -32,13 +32,10 @@ __You are allow to create issues to let me know the new server software that you
 * __[DevMine](https://github.com/MineCode-Devs/DevMine)__
 * __[Steadfast-Hybrid](https://github.com/yungtechboy1/Steadfast-Hybrid)__
 * __[ImagicalMine](https://github.com/ImagicalMine/ImagicalMine)__
-* __[Rocky](https://github.com/rockySoftware/Rocky)__
-* __[DimensionsMP](https://github.com/DimensionsPE/DimensionsMP)__
 * __[PocketMine-M3](https://github.com/FrontierDevs/PocketMine-M3)__
 * __[Cookie-MP](https://github.com/CookieSoftware/Cookie-MP)__
 * __[StarrySky](https://github.com/StarrySky-PE/StarrySky)__
 * __[Hydracon](https://github.com/E-DevPM/Hydracon)__
-* __[Tesseract](https://github.com/TesseractTeam/Tesseract)__
 
 ## Server Software written in Java
 ### Still Active
