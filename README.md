@@ -1,4 +1,4 @@
-# Minecraft : Pocket Edition Server Software List (2017.7.24)
+# Minecraft : Pocket Edition Server Software List (2017.7.27)
 __You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued.__
 
 ## Donate (When reach 30$ I will remove it)
@@ -13,9 +13,10 @@ __You are allow to create issues to let me know the new server software that you
 * __[GenisysPro](https://github.com/GenisysPro/GenisysPro)__
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
 * __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
-* __[Tesseract](https://github.com/TesseractTeam/Tesseract)__
 * __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
 * __[Endako](https://github.com/LeronDoesGM/Endako)__
+* __[Tesseract](https://github.com/ServerSoftwareArchiveTeam/Tesseract)__
+* __[Rocky](https://github.com/ServerSoftwareArchiveTeam/Rocky)__
 ### Discontinued
 * __[Arufa](https://github.com/Jonathanftw/Arufa)__
 * __[Genisys](https://github.com/iTXTech/Genisys)__
