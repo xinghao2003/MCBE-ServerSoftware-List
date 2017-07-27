@@ -12,10 +12,8 @@ __You are allow to create issues to let me know the new server software that you
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
 * __[GenisysPro](https://github.com/GenisysPro/GenisysPro)__
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
-* __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
-* __[Tesseract](https://github.com/TesseractTeam/Tesseract)__
 * __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
-* __[Endako](https://github.com/LeronDoesGM/Endako)__
+* __[ServerSoftwareArchiveTeam](https://github.com/ServerSoftwareArchiveTeam/Tesseract)__
 ### Discontinued
 * __[Arufa](https://github.com/Jonathanftw/Arufa)__
 * __[Genisys](https://github.com/iTXTech/Genisys)__
@@ -38,6 +36,7 @@ __You are allow to create issues to let me know the new server software that you
 * __[StarrySky](https://github.com/StarrySky-PE/StarrySky)__
 * __[Hydracon](https://github.com/E-DevPM/Hydracon)__
 * __[DualNova](https://github.com/DualNova-Team/DualNova)__
+* __[ServerSoftwareArchiveTeam](https://github.com/ServerSoftwareArchiveTeam/Tesseract)__
 
 ## Server Software written in Java
 ### Still Active
