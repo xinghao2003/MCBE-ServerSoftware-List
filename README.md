@@ -14,13 +14,13 @@ __You are allow to create issues to let me know the new server software that you
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
 * __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
 * __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
-* __[Endako](https://github.com/LeronDoesGM/Endako)__
 * __[Tesseract](https://github.com/ServerSoftwareArchiveTeam/Tesseract)__
 * __[Rocky](https://github.com/ServerSoftwareArchiveTeam/Rocky)__
 ### Discontinued
 * __[Arufa](https://github.com/Jonathanftw/Arufa)__
 * __[Genisys](https://github.com/iTXTech/Genisys)__
 * __[Elywing](https://github.com/H4PM/Elywing)__
+* __[Endako](https://github.com/LeronDoesGM/Endako)__
 * __[FuryMine](https://github.com/XFuryMCPE/FuryMine)__
 * __[Apollo](https://github.com/caspervanneck/Apollo)__
 * __[ClearSky](https://github.com/ClearSkyTeam/ClearSky)__
