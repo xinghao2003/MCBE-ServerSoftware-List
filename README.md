@@ -3,9 +3,7 @@
   # Minecraft : Pocket Edition Server Software List (2017.8.6)
   # __You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued.__
 
-==============================================================================
-=                                  DONATE TO ME                              =
-==============================================================================
+
 
 ## Donate (When reach 30$ I will remove it)
 * __[Paypal](https://paypal.me/xinghao2003)__
