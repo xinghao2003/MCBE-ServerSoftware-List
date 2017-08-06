@@ -7,10 +7,11 @@
 
 ## Donate (When reach 30$ I will remove it)
 * __[Paypal](https://paypal.me/xinghao2003)__
+
+## Server Software written in PHP
 ==============================================================================
 =                                  List of PHP                               =
 ==============================================================================
-## Server Software written in PHP
 ### Still Active (A-Z Order)
 * __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
@@ -45,10 +46,11 @@
 * __[StarrySky](https://github.com/StarrySky-PE/StarrySky)__
 * __[Steadfast-Hybrid](https://github.com/yungtechboy1/Steadfast-Hybrid)__
 * __[T-STAR](https://github.com/TaleStar/T-STAR)__
+
+## Server Software written in Java
 ==============================================================================
 =                                  List of Java                              =
 ==============================================================================
-## Server Software written in Java
 ### Still Active (A-Z Order)
 * __[Jupiter](https://github.com/JupiterDevelopmentTeam/JupiterDevelopmentTeam)__
 * __[Nukkit](https://github.com/Nukkit/Nukkit)__
@@ -62,79 +64,87 @@
 * __[MineTurtle](https://github.com/MCPEBukkit/MineTurtle)__
 * __[SpiderMine](https://github.com/QuantumWorks/SpiderMine)__
 * __[Voxelwind](https://github.com/voxelwind/voxelwind)__
+
+## Server Software written in C# 
 ==============================================================================
 =                                  List of C#                                =
 ==============================================================================
-## Server Software written in C# 
 ### Still Active (A-Z Order)
 * __[MiNET](https://github.com/NiclasOlofsson/MiNET)__
 ### Discontinued (A-Z Order)
 * __[NetherServ](https://github.com/protosleep/NetherServ)__
 * __[ZhyCore](https://github.com/ZhyTeam/ZhyCore)__
+
+## Server Software written in JavaScript
 ==============================================================================
 =                                  List of JavaScript                        =
 ==============================================================================
-## Server Software written in JavaScript
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
 * __[DirtServer](https://github.com/Falkirks/DirtServer)__
 * __[NodeMine](https://github.com/NodeMine/NodeMine)__
 * __[Numerous-alpaca](https://github.com/numerous-alpaca/numerous-alpaca)__
+
+## Server Software written in Python
 ==============================================================================
 =                                  List of Python                            =
 ==============================================================================
-## Server Software written in Python
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
 * __[AlphaMC](https://github.com/Suppert/AlphaMC)__
 * __[Neos](https://github.com/daniktheboss/Neos)__
 * __[Python-mcpe](https://github.com/python-mcpe/python-mcpe)__
+
+## Server Software written in D
 ==============================================================================
 =                                  List of D                                 =
 ==============================================================================
-## Server Software written in D
 ### Still Active (A-Z Order)
 * __[Sel-server](https://github.com/sel-project/sel-server)__
 ### Discontinued (A-Z Order)
 
+## Server Software written in Lua
 ==============================================================================
 =                                  List of Lua                               =
 ==============================================================================
-## Server Software written in Lua
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
 * __[LuaMine](https://github.com/LuaMine/LuaMine)__
+
+## Server Software written in Ruby
 ==============================================================================
 =                                  List of Ruby                              =
 ==============================================================================
-## Server Software written in Ruby
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
 * __[EvilArk-Soft](https://github.com/Asparanc/EvilArk-Soft)__
+
+## Server Software written in Go
 ==============================================================================
 =                                  List of Go                                =
 ==============================================================================
-## Server Software written in Go
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
 * __[Rockit-LMS](https://github.com/cr0sh/Rockit-LMS)__
+
+## Server Software written in Rust
 ==============================================================================
 =                                  List of Rust                              =
 ==============================================================================
-## Server Software written in Rust
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
 * __[Limonite](https://github.com/iTXTech/limonite)__
+
+## Server Software written in C++
 ==============================================================================
 =                                  List of C++                               =
 ==============================================================================
-## Server Software written in C++
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
