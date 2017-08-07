@@ -1,6 +1,6 @@
 # =======================================
 
-  # Minecraft : Pocket Edition Server Software List (2017.8.6)
+  # Minecraft : Pocket Edition Server Software List (2017.9.6)
   # __You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued.__
 
 
@@ -16,6 +16,7 @@ List of Most PHP Server Software!
 ### Still Active (A-Z Order)
 * __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
+* __[Endako](https://github.com/LeronDoesGM/Endako)__
 * __[GenisysPro](https://github.com/GenisysPro/GenisysPro)__
 * __[Leveryl](https://github.com/LeverylTeam/Leveryl)__
 * __[NekoMine-MP](https://github.com/Nekiechan/NekoMine-MP)__
@@ -35,7 +36,6 @@ List of Most PHP Server Software!
 * __[CoreminePE](https://github.com/starfury1927/CoreminePE)__
 * __[DevMine](https://github.com/MineCode-Devs/DevMine)__
 * __[DualNova](https://github.com/DualNova-Team/DualNova)__
-* __[Endako](https://github.com/LeronDoesGM/Endako)__
 * __[Freven](https://github.com/FrevenTeam/Freven)__
 * __[Hydracon](https://github.com/E-DevPM/Hydracon)__
 * __[ImagicalMine](https://github.com/ImagicalMine/ImagicalMine)__
