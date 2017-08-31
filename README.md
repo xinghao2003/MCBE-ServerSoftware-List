@@ -21,9 +21,7 @@ List of Most PHP Server Software!
 * __[Leveryl](https://github.com/LeverylTeam/Leveryl)__
 * __[NekoMine-MP](https://github.com/Nekiechan/NekoMine-MP)__
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
-* __[Rocky](https://github.com/ServerSoftwareArchiveTeam/Rocky)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
-* __[Tesseract](https://github.com/ServerSoftwareArchiveTeam/Tesseract)__
 * __[SpigotPE](https://github.com/SpigotPE-Team/SpigotPE)__
 ### Discontinued (A-Z Order)
 * __[Apollo](https://github.com/caspervanneck/Apollo)__
@@ -48,6 +46,8 @@ List of Most PHP Server Software!
 * __[Steadfast-Hybrid](https://github.com/yungtechboy1/Steadfast-Hybrid)__
 * __[T-STAR](https://github.com/TaleStar/T-STAR)__
 * __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
+* __[Tesseract](https://github.com/ServerSoftwareArchiveTeam/Tesseract)__
+* __[Rocky](https://github.com/ServerSoftwareArchiveTeam/Rocky)__
 
 ## Server Software written in Java
 List of Most Java Server Software!
