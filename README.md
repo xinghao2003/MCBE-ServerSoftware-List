@@ -1,6 +1,6 @@
 # =======================================
 
-  # Minecraft : Pocket Edition Server Software List (2017.8.27)
+  # Minecraft : Pocket Edition Server Software List (2017.8.31)
   # __You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued.__
 
 
@@ -20,7 +20,6 @@ List of Most PHP Server Software!
 * __[GenisysPro](https://github.com/GenisysPro/GenisysPro)__
 * __[Leveryl](https://github.com/LeverylTeam/Leveryl)__
 * __[NekoMine-MP](https://github.com/Nekiechan/NekoMine-MP)__
-* __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
 * __[Rocky](https://github.com/ServerSoftwareArchiveTeam/Rocky)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
@@ -48,6 +47,7 @@ List of Most PHP Server Software!
 * __[StarrySky](https://github.com/StarrySky-PE/StarrySky)__
 * __[Steadfast-Hybrid](https://github.com/yungtechboy1/Steadfast-Hybrid)__
 * __[T-STAR](https://github.com/TaleStar/T-STAR)__
+* __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
 
 ## Server Software written in Java
 List of Most Java Server Software!
