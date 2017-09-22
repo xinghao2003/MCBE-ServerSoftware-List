@@ -14,7 +14,6 @@ List of Most PHP Server Software!
 =                                  List of PHP                               =
 ==============================================================================
 ### Still Active (A-Z Order)
-* __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
 * __[Endako](https://github.com/LeronDoesGM/Endako)__
 * __[GenisysPro](https://github.com/GenisysPro/GenisysPro)__
@@ -48,6 +47,7 @@ List of Most PHP Server Software!
 * __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
 * __[Tesseract](https://github.com/ServerSoftwareArchiveTeam/Tesseract)__
 * __[Rocky](https://github.com/ServerSoftwareArchiveTeam/Rocky)__
+* __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
 
 ## Server Software written in Java
 List of Most Java Server Software!
@@ -57,6 +57,7 @@ List of Most Java Server Software!
 ### Still Active (A-Z Order)
 * __[Jupiter](https://github.com/JupiterDevelopmentTeam/JupiterDevelopmentTeam)__
 * __[Nukkit](https://github.com/Nukkit/Nukkit)__
+* __[SpigotPE-Java](https://github.com/SpigotPE-Team/SpigotPE-Java-edition)__
 ### Discontinued (A-Z Order)
 * __[BukkitPE](https://github.com/BukkitPE/BukkitPE)__
 * __[DiamondCore](https://github.com/yungtechboy1/DiamondCore)__
