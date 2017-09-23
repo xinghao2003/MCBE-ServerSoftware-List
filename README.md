@@ -86,7 +86,6 @@ List of Most JavaScript Server Software!
 =                                  List of JavaScript                        =
 ==============================================================================
 ### Still Active (A-Z Order)
-* __[Minecraft.js](https://github.com/MinecraftJS/Minecraft.js)__
 ### Discontinued (A-Z Order)
 * __[DirtServer](https://github.com/Falkirks/DirtServer)__
 * __[NodeMine](https://github.com/NodeMine/NodeMine)__
