@@ -1,6 +1,6 @@
 # =======================================
 
-  # Minecraft : Pocket Edition Server Software List (2017.9.4)
+  # Minecraft : Pocket Edition Server Software List (2017.9.23)
   # __You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued.__
 
 
@@ -57,6 +57,7 @@ List of Most Java Server Software!
 ### Still Active (A-Z Order)
 * __[Jupiter](https://github.com/JupiterDevelopmentTeam/JupiterDevelopmentTeam)__
 * __[Nukkit](https://github.com/Nukkit/Nukkit)__
+* __[SpigotPE-Java](https://github.com/SpigotPE-Team/SpigotPE-Java-edition)__
 ### Discontinued (A-Z Order)
 * __[BukkitPE](https://github.com/BukkitPE/BukkitPE)__
 * __[DiamondCore](https://github.com/yungtechboy1/DiamondCore)__
