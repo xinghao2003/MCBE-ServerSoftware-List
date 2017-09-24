@@ -1,6 +1,6 @@
 # =======================================
 
-  # Minecraft : Pocket Edition Server Software List (2017.9.23)
+  # Minecraft : Pocket Edition Server Software List (2017.9.24)
   # __You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued.__
 
 
@@ -23,6 +23,7 @@ List of Most PHP Server Software!
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
 * __[SpigotPE](https://github.com/SpigotPE-Team/SpigotPE)__
+* __[Apollo-Legacy](https://github.com/Apollo-SoftwareTeam/Apollo-Legacy)__
 ### Discontinued (A-Z Order)
 * __[Apollo](https://github.com/caspervanneck/Apollo)__
 * __[Arufa](https://github.com/Jonathanftw/Arufa)__
