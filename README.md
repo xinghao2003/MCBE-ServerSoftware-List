@@ -87,6 +87,7 @@ List of Most JavaScript Server Software!
 =                                  List of JavaScript                        =
 ==============================================================================
 ### Still Active (A-Z Order)
+* __[PocketNode](https://github.com/PocketNode/PocketNode)__
 ### Discontinued (A-Z Order)
 * __[DirtServer](https://github.com/Falkirks/DirtServer)__
 * __[NodeMine](https://github.com/NodeMine/NodeMine)__
