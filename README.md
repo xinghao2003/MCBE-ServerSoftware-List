@@ -14,6 +14,7 @@ List of Most PHP Server Software!
 =                                  List of PHP                               =
 ==============================================================================
 ### Still Active (A-Z Order)
+* __[Turanic](https://github.com/TuranicTeam/Turanic)__
 * __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
 * __[Endako](https://github.com/LeronDoesGM/Endako)__
