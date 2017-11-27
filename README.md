@@ -55,7 +55,6 @@ List of Most Java Server Software!
 ### Still Active (A-Z Order)
 * __[Jupiter](https://github.com/JupiterDevelopmentTeam/JupiterDevelopmentTeam)__
 * __[Nukkit](https://github.com/Nukkit/Nukkit)__
-* __[SpigotPE-Java](https://github.com/SpigotPE-Team/SpigotPE-Java-edition)__
 ### Discontinued (A-Z Order)
 * __[BukkitPE](https://github.com/BukkitPE/BukkitPE)__
 * __[DiamondCore](https://github.com/yungtechboy1/DiamondCore)__
@@ -65,6 +64,7 @@ List of Most Java Server Software!
 * __[MCPEBukkit](https://github.com/MCPEBukkit/MCPEBukkit)__
 * __[MineTurtle](https://github.com/MCPEBukkit/MineTurtle)__
 * __[SpiderMine](https://github.com/QuantumWorks/SpiderMine)__
+* __[SpigotPE-Java](https://github.com/SpigotPE-Team/SpigotPE-Java-edition)__
 * __[Voxelwind](https://github.com/voxelwind/voxelwind)__
 
 ## Server Software written in C# 
