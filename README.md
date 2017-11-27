@@ -14,7 +14,6 @@ List of Most PHP Server Software!
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
-* __[SpigotPE](https://github.com/SpigotPE-Team/SpigotPE)__
 * __[Apollo-Legacy](https://github.com/Apollo-SoftwareTeam/Apollo-Legacy)__
 ### Discontinued (A-Z Order)
 * __[Apollo](https://github.com/caspervanneck/Apollo)__
@@ -39,6 +38,7 @@ List of Most PHP Server Software!
 * __[PocketMinePlusPlus-Legacy](https://github.com/PrismarineMC/PocketMinePlusPlus-Legacy)__
 * __[Prismarine](https://github.com/PrismarineMC/Prismarine)__
 * __[Prismarine-0.12](https://github.com/PrismarineMC/Prismarine-0.12)__
+* __[SpigotPE](https://github.com/SpigotPE-Team/SpigotPE)__
 * __[StarrySky](https://github.com/StarrySky-PE/StarrySky)__
 * __[Steadfast-Hybrid](https://github.com/yungtechboy1/Steadfast-Hybrid)__
 * __[T-STAR](https://github.com/TaleStar/T-STAR)__
