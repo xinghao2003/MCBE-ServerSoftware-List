@@ -5,8 +5,6 @@
 
 
 
-## Donate (When reach 30$ I will remove it)
-* __[Paypal](https://paypal.me/xinghao2003)__
 
 ## Server Software written in PHP
 List of Most PHP Server Software!
@@ -16,10 +14,6 @@ List of Most PHP Server Software!
 ### Still Active (A-Z Order)
 * __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
-* __[Endako](https://github.com/LeronDoesGM/Endako)__
-* __[GenisysPro](https://github.com/GenisysPro/GenisysPro)__
-* __[Leveryl](https://github.com/LeverylTeam/Leveryl)__
-* __[NekoMine-MP](https://github.com/Nekiechan/NekoMine-MP)__
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
 * __[SpigotPE](https://github.com/SpigotPE-Team/SpigotPE)__
@@ -27,9 +21,13 @@ List of Most PHP Server Software!
 ### Discontinued (A-Z Order)
 * __[Apollo](https://github.com/caspervanneck/Apollo)__
 * __[Arufa](https://github.com/Jonathanftw/Arufa)__
-* __[Genisys](https://github.com/iTXTech/Genisys)__
+* __[Endako](https://github.com/LeronDoesGM/Endako)__
 * __[Elywing](https://github.com/H4PM/Elywing)__
+* __[Genisys](https://github.com/iTXTech/Genisys)__
+* __[GenisysPro](https://github.com/GenisysPro/GenisysPro)__
 * __[FuryMine](https://github.com/XFuryMCPE/FuryMine)__
+* __[Leveryl](https://github.com/LeverylTeam/Leveryl)__
+* __[NekoMine-MP](https://github.com/Nekiechan/NekoMine-MP)__
 * __[ClearSky](https://github.com/ClearSkyTeam/ClearSky)__
 * __[Cookie-MP](https://github.com/CookieSoftware/Cookie-MP)__
 * __[CoreminePE](https://github.com/starfury1927/CoreminePE)__
@@ -49,6 +47,7 @@ List of Most PHP Server Software!
 * __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
 * __[Tesseract](https://github.com/ServerSoftwareArchiveTeam/Tesseract)__
 * __[Rocky](https://github.com/ServerSoftwareArchiveTeam/Rocky)__
+* __[Utopia](https://github.com/HybridPE/Utopia)__
 
 ## Server Software written in Java
 List of Most Java Server Software!
@@ -111,8 +110,9 @@ List of Most D Server Software!
 =                                  List of D                                 =
 ==============================================================================
 ### Still Active (A-Z Order)
-* __[Sel-server](https://github.com/sel-project/sel-server)__
+
 ### Discontinued (A-Z Order)
+* __[Sel-server](https://github.com/sel-project/sel-server)__
 
 ## Server Software written in Lua
 List of Most Lua Server Software!
