@@ -1,11 +1,8 @@
-# =======================================
+# Minecraft : Bedrock Edition Server Software List (2017.11.27)
 
-  # Minecraft : Pocket Edition Server Software List (2017.9.24)
-  # __You are allow to create issues to let me know the new server software that you found in Github. If the server software almost one month didn't update it will be mark as discontinued.__
-
-
-
-
+  - You are allow to create issues to let me know the new server software that you found on Github
+  - If the server software almost one month didn't update it will be mark as discontinued
+  
 ## Server Software written in PHP
 List of Most PHP Server Software!
 ==============================================================================
