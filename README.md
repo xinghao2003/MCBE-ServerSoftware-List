@@ -1,5 +1,5 @@
-# Minecraft : Bedrock Edition Server Software List (2017.11.28)
-
+# Minecraft : Bedrock Edition Server Software List
+  - Last Updated : 2017.11.28
   - You are allow to create issues to let me know the new server software that you found on Github
   - If the server software almost one month didn't update it will be mark as discontinued
   - The list below can make you easy to find the server software that you want 
@@ -11,13 +11,14 @@
 | [C#](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-c) | Still Active : 1 < Discontinued : 2 |
 | [Javascript](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-javascript) | Still Active : 1 < Discontinued : 3 |
 | [Python](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-python) | Still Active : 0 < Discontinued : 3 |
+| [D](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-d) | Still Active : 0 < Discontinued : 1 |
 | [Lua](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-lua) | Still Active : 0 < Discontinued : 1 |
 | [Ruby](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-ruby) | Still Active : 0 < Discontinued : 1 |
 | [Go](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-go) | Still Active : 1 = Discontinued : 1 |
 | [Rust](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-rust) | Still Active : 0 < Discontinued : 1 |
 | [C++](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-c-1) | Still Active : 0 < Discontinued : 2 |
   
-## Written in PHP
+## [Written in PHP](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
 ### Still Active (A-Z Order)
 * __[Apollo-Legacy](https://github.com/Apollo-SoftwareTeam/Apollo-Legacy)__
 * __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
@@ -57,7 +58,7 @@
 * __[Rocky](https://github.com/ServerSoftwareArchiveTeam/Rocky)__
 * __[Utopia](https://github.com/HybridPE/Utopia)__
 
-## Written in Java
+## [Written in Java](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
 ### Still Active (A-Z Order)
 * __[Jupiter](https://github.com/JupiterDevelopmentTeam/JupiterDevelopmentTeam)__
 * __[Nukkit](https://github.com/Nukkit/Nukkit)__
@@ -73,14 +74,14 @@
 * __[SpiderMine](https://github.com/QuantumWorks/SpiderMine)__
 * __[Voxelwind](https://github.com/voxelwind/voxelwind)__
 
-## Written in C# 
+## [Written in C#](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list) 
 ### Still Active (A-Z Order)
 * __[MiNET](https://github.com/NiclasOlofsson/MiNET)__
 ### Discontinued (A-Z Order)
 * __[NetherServ](https://github.com/protosleep/NetherServ)__
 * __[ZhyCore](https://github.com/ZhyTeam/ZhyCore)__
 
-## Written in JavaScript
+## [Written in JavaScript](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
 ### Still Active (A-Z Order)
 * __[PocketNode](https://github.com/PocketNode/PocketNode)__
 ### Discontinued (A-Z Order)
@@ -88,7 +89,7 @@
 * __[NodeMine](https://github.com/NodeMine/NodeMine)__
 * __[Numerous-alpaca](https://github.com/numerous-alpaca/numerous-alpaca)__
 
-## Written in Python
+## [Written in Python](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
@@ -96,37 +97,37 @@
 * __[Neos](https://github.com/daniktheboss/Neos)__
 * __[Python-mcpe](https://github.com/python-mcpe/python-mcpe)__
 
-## Written in D
+## [Written in D](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
 * __[Sel-server](https://github.com/sel-project/sel-server)__
 
-## Written in Lua
+## [Written in Lua](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
 * __[LuaMine](https://github.com/LuaMine/LuaMine)__
 
-## Written in Ruby
+## [Written in Ruby](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
 * __[EvilArk-Soft](https://github.com/Asparanc/EvilArk-Soft)__
 
-## Written in Go
+## [Written in Go](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
 ### Still Active (A-Z Order)
 * __[GoMine](https://github.com/Irmine/GoMine)__
 ### Discontinued (A-Z Order)
 * __[Rockit-LMS](https://github.com/cr0sh/Rockit-LMS)__
 
-## Written in Rust
+## [Written in Rust](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
 * __[Limonite](https://github.com/iTXTech/limonite)__
 
-## Written in C++
+## [Written in C++](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
