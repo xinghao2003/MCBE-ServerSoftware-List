@@ -1,13 +1,9 @@
-# Minecraft : Bedrock Edition Server Software List (2017.11.27)
+# Minecraft : Bedrock Edition Server Software List (2017.11.28)
 
   - You are allow to create issues to let me know the new server software that you found on Github
   - If the server software almost one month didn't update it will be mark as discontinued
   
-## Server Software written in PHP
-List of Most PHP Server Software!
-==============================================================================
-=                                  List of PHP                               =
-==============================================================================
+## Written in PHP
 ### Still Active (A-Z Order)
 * __[Turanic](https://github.com/TuranicTeam/Turanic)__
 * __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
@@ -47,11 +43,7 @@ List of Most PHP Server Software!
 * __[Rocky](https://github.com/ServerSoftwareArchiveTeam/Rocky)__
 * __[Utopia](https://github.com/HybridPE/Utopia)__
 
-## Server Software written in Java
-List of Most Java Server Software!
-==============================================================================
-=                                  List of Java                              =
-==============================================================================
+## Written in Java
 ### Still Active (A-Z Order)
 * __[Jupiter](https://github.com/JupiterDevelopmentTeam/JupiterDevelopmentTeam)__
 * __[Nukkit](https://github.com/Nukkit/Nukkit)__
@@ -67,22 +59,14 @@ List of Most Java Server Software!
 * __[SpiderMine](https://github.com/QuantumWorks/SpiderMine)__
 * __[Voxelwind](https://github.com/voxelwind/voxelwind)__
 
-## Server Software written in C# 
-List of Most C# Server Software!
-==============================================================================
-=                                  List of C#                                =
-==============================================================================
+## Written in C# 
 ### Still Active (A-Z Order)
 * __[MiNET](https://github.com/NiclasOlofsson/MiNET)__
 ### Discontinued (A-Z Order)
 * __[NetherServ](https://github.com/protosleep/NetherServ)__
 * __[ZhyCore](https://github.com/ZhyTeam/ZhyCore)__
 
-## Server Software written in JavaScript
-List of Most JavaScript Server Software!
-==============================================================================
-=                                  List of JavaScript                        =
-==============================================================================
+## Written in JavaScript
 ### Still Active (A-Z Order)
 * __[PocketNode](https://github.com/PocketNode/PocketNode)__
 ### Discontinued (A-Z Order)
@@ -90,11 +74,7 @@ List of Most JavaScript Server Software!
 * __[NodeMine](https://github.com/NodeMine/NodeMine)__
 * __[Numerous-alpaca](https://github.com/numerous-alpaca/numerous-alpaca)__
 
-## Server Software written in Python
-List of Most Python Server Software!
-==============================================================================
-=                                  List of Python                            =
-==============================================================================
+## Written in Python
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
@@ -102,61 +82,37 @@ List of Most Python Server Software!
 * __[Neos](https://github.com/daniktheboss/Neos)__
 * __[Python-mcpe](https://github.com/python-mcpe/python-mcpe)__
 
-## Server Software written in D
-List of Most D Server Software!
-==============================================================================
-=                                  List of D                                 =
-==============================================================================
+## Written in D
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
 * __[Sel-server](https://github.com/sel-project/sel-server)__
 
-## Server Software written in Lua
-List of Most Lua Server Software!
-==============================================================================
-=                                  List of Lua                               =
-==============================================================================
+## Written in Lua
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
 * __[LuaMine](https://github.com/LuaMine/LuaMine)__
 
-## Server Software written in Ruby
-List of Most Ruby Server Software!
-==============================================================================
-=                                  List of Ruby                              =
-==============================================================================
+## Written in Ruby
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
 * __[EvilArk-Soft](https://github.com/Asparanc/EvilArk-Soft)__
 
-## Server Software written in Go
-List of Most Go Server Software!
-==============================================================================
-=                                  List of Go                                =
-==============================================================================
+## Written in Go
 ### Still Active (A-Z Order)
 * __[GoMine](https://github.com/Irmine/GoMine)__
 ### Discontinued (A-Z Order)
 * __[Rockit-LMS](https://github.com/cr0sh/Rockit-LMS)__
 
-## Server Software written in Rust
-List of Most Rust Server Software!
-==============================================================================
-=                                  List of Rust                              =
-==============================================================================
+## Written in Rust
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
 * __[Limonite](https://github.com/iTXTech/limonite)__
 
-## Server Software written in C++
-List of Most C++ Server Software!
-==============================================================================
-=                                  List of C++                               =
-==============================================================================
+## Written in C++
 ### Still Active (A-Z Order)
 
 ### Discontinued (A-Z Order)
