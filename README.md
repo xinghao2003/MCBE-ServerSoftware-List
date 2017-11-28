@@ -2,19 +2,20 @@
 
   - You are allow to create issues to let me know the new server software that you found on Github
   - If the server software almost one month didn't update it will be mark as discontinued
+  - The list below can make you easy to find the server software that you want 
   
 | Language | Status |
 | ------ | ------ |
-| [PHP](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-php) | Still Active : Discontinued :  |
-| [Java](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-java) |  |
-| [C#](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-c) |  |
-| [Javascript](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-javascript) |  |
-| [Python](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-python) |  |
-| [Lua](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-lua) |  |
-| [Ruby](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-ruby) |  |
-| [Go](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-go) |  |
-| [Rust](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-rust) |  |
-| [C++](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-c-1) |  |
+| [PHP](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-php) | Still Active : 7 < Discontinued : 29 |
+| [Java](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-java) | Still Active : 3 < Discontinued : 9 |
+| [C#](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-c) | Still Active : 1 < Discontinued : 2 |
+| [Javascript](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-javascript) | Still Active : 1 < Discontinued : 3 |
+| [Python](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-python) | Still Active : 0 < Discontinued : 3 |
+| [Lua](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-lua) | Still Active : 0 < Discontinued : 1 |
+| [Ruby](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-ruby) | Still Active : 0 < Discontinued : 1 |
+| [Go](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-go) | Still Active : 1 = Discontinued : 1 |
+| [Rust](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-rust) | Still Active : 0 < Discontinued : 1 |
+| [C++](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-c-1) | Still Active : 0 < Discontinued : 2 |
   
 ## Written in PHP
 ### Still Active (A-Z Order)
