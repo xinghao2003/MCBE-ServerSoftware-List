@@ -19,13 +19,13 @@
   
 ## Written in PHP
 ### Still Active (A-Z Order)
-* [Turanic](https://github.com/TuranicTeam/Turanic)
-* [BlueLight](https://github.com/BlueLightJapan/BlueLight)
+* __[Apollo-Legacy](https://github.com/Apollo-SoftwareTeam/Apollo-Legacy)__
+* __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
 * __[SpigotPE](https://github.com/SpigotPE-Team/SpigotPE)__
-* __[Apollo-Legacy](https://github.com/Apollo-SoftwareTeam/Apollo-Legacy)__
+* __[Turanic](https://github.com/TuranicTeam/Turanic)__
 ### Discontinued (A-Z Order)
 * __[Apollo](https://github.com/caspervanneck/Apollo)__
 * __[Arufa](https://github.com/Jonathanftw/Arufa)__
