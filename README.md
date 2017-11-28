@@ -19,8 +19,8 @@
   
 ## Written in PHP
 ### Still Active (A-Z Order)
-* __[Turanic](https://github.com/TuranicTeam/Turanic)__
-* __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
+* [Turanic](https://github.com/TuranicTeam/Turanic)
+* [BlueLight](https://github.com/BlueLightJapan/BlueLight)
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
