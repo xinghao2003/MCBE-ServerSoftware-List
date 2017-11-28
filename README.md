@@ -6,8 +6,8 @@
   
 | Language | Status |
 | ------ | ------ |
-| [PHP](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-php) | Still Active : 8 < Discontinued : 29 |
-| [Java](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-java) | Still Active : 3 < Discontinued : 9 |
+| [PHP](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-php) | Still Active : 12 < Discontinued : 31 |
+| [Java](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-java) | Still Active : 5 < Discontinued : 11 |
 | [C#](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-c) | Still Active : 1 < Discontinued : 2 |
 | [Javascript](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-javascript) | Still Active : 1 < Discontinued : 3 |
 | [Python](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-python) | Still Active : 0 < Discontinued : 3 |
@@ -28,6 +28,10 @@
 * __[SpigotPE](https://github.com/SpigotPE-Team/SpigotPE)__
 * __[Turanic](https://github.com/TuranicTeam/Turanic)__
 * __[DarkSystem](https://github.com/DarkSystem-PE/DarkSystem)__
+* __[AtmosPE](https://github.com/AtmosPE/AtmosPE)__
+* __[Extropy](https://github.com/ConflictPE/Extropy)__
+* __[able-mp](https://github.com/AbleUnion/able-mp)__
+* __[NightMoon](https://github.com/NightMoonTeam/NightMoon)__
 ### Discontinued (A-Z Order)
 * __[Apollo](https://github.com/caspervanneck/Apollo)__
 * __[Arufa](https://github.com/Jonathanftw/Arufa)__
@@ -58,12 +62,16 @@
 * __[Tesseract](https://github.com/ServerSoftwareArchiveTeam/Tesseract)__
 * __[Rocky](https://github.com/ServerSoftwareArchiveTeam/Rocky)__
 * __[Utopia](https://github.com/HybridPE/Utopia)__
+* __[SkyLightPM](https://github.com/SkyLightMCPE/SkyLightPM)__
+* __[FrontierEdge](https://github.com/FrontierDevs/FrontierEdge)__
 
 ## [Written in Java](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
 ### Still Active (A-Z Order)
 * __[Jupiter](https://github.com/JupiterDevelopmentTeam/JupiterDevelopmentTeam)__
 * __[Nukkit](https://github.com/Nukkit/Nukkit)__
 * __[SpigotPE-Java](https://github.com/SpigotPE-Team/SpigotPE-Java-edition)__
+* __[Nukkit-Java9](https://github.com/Rsplwe/Nukkit-Java9)__
+* __[voxelwind](https://github.com/SupremeMortal/voxelwind)__
 ### Discontinued (A-Z Order)
 * __[BukkitPE](https://github.com/BukkitPE/BukkitPE)__
 * __[DiamondCore](https://github.com/yungtechboy1/DiamondCore)__
@@ -74,6 +82,8 @@
 * __[MineTurtle](https://github.com/MCPEBukkit/MineTurtle)__
 * __[SpiderMine](https://github.com/QuantumWorks/SpiderMine)__
 * __[Voxelwind](https://github.com/voxelwind/voxelwind)__
+* __[CoreX](https://github.com/CoreXDevelopment/CoreX)__
+* __[Jenisys3](https://github.com/FrontierDevs/Jenisys3)__
 
 ## [Written in C#](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list) 
 ### Still Active (A-Z Order)
