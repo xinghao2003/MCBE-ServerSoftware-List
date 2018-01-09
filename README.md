@@ -25,7 +25,6 @@
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
-* __[SpigotPE](https://github.com/SpigotPE-Team/SpigotPE)__
 * __[Turanic](https://github.com/TuranicTeam/Turanic)__
 * __[DarkSystem](https://github.com/DarkSystem-PE/DarkSystem)__
 * __[AtmosPE](https://github.com/AtmosPE/AtmosPE)__
@@ -72,7 +71,6 @@
 ### Still Active (A-Z Order)
 * __[Jupiter](https://github.com/JupiterDevelopmentTeam/JupiterDevelopmentTeam)__
 * __[Nukkit](https://github.com/Nukkit/Nukkit)__
-* __[SpigotPE-Java](https://github.com/SpigotPE-Team/SpigotPE-Java-edition)__
 * __[Nukkit-Java9](https://github.com/Rsplwe/Nukkit-Java9)__
 * __[voxelwind](https://github.com/SupremeMortal/voxelwind)__
 ### Discontinued (A-Z Order)
