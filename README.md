@@ -6,8 +6,8 @@
   
 | Language | Status |
 | ------ | ------ |
-| [PHP](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-php) | Still Active : 13 < Discontinued : 33 |
-| [Java](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-java) | Still Active : 5 < Discontinued : 11 |
+| [PHP](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-php) | Still Active : 10 < Discontinued : 35 |
+| [Java](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-java) | Still Active : 3 < Discontinued : 13 |
 | [C#](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-c) | Still Active : 1 < Discontinued : 2 |
 | [Javascript](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-javascript) | Still Active : 1 < Discontinued : 3 |
 | [Python](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-python) | Still Active : 0 < Discontinued : 2 |
@@ -22,18 +22,16 @@
 ### Still Active (A-Z Order)
 * __[Apollo-Legacy](https://github.com/Apollo-SoftwareTeam/Apollo-Legacy)__
 * __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
-* __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
-* __[SpigotPE](https://github.com/SpigotPE-Team/SpigotPE)__
 * __[Turanic](https://github.com/TuranicTeam/Turanic)__
 * __[DarkSystem](https://github.com/DarkSystem-PE/DarkSystem)__
-* __[AtmosPE](https://github.com/AtmosPE/AtmosPE)__
 * __[Extropy](https://github.com/ConflictPE/Extropy)__
 * __[able-mp](https://github.com/AbleUnion/able-mp)__
 * __[NightMoon](https://github.com/NightMoonTeam/NightMoon)__
 * __[DragMine](https://github.com/DragMineTeam/DragMine)__
 ### Discontinued (A-Z Order)
+* __[AtmosPE](https://github.com/AtmosPE/AtmosPE)__
 * __[Apollo](https://github.com/caspervanneck/Apollo)__
 * __[Arufa](https://github.com/Jonathanftw/Arufa)__
 * __[Endako](https://github.com/LeronDoesGM/Endako)__
@@ -67,14 +65,17 @@
 * __[FrontierEdge](https://github.com/FrontierDevs/FrontierEdge)__
 * __[ShadePE](https://github.com/ExplodingPE/ShadePE)__
 * __[Eventaxhl](https://github.com/EventaxhlTeam/Eventaxhl)__
+* __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
 
 ## [Written in Java](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
 ### Still Active (A-Z Order)
 * __[Jupiter](https://github.com/JupiterDevelopmentTeam/JupiterDevelopmentTeam)__
 * __[Nukkit](https://github.com/Nukkit/Nukkit)__
+ - * __[NukkitX-version](https://github.com/NukkitX/Nukkit)__
+ - * __[ncnncn-version](https://github.com/ncnncn/Nukkit)__
+ - * __[PetteriM1-version](https://github.com/PetteriM1/Nukkit)__
+ - * __[kvetinac97-version](https://github.com/kvetinac97/Nukkit)__
 * __[SpigotPE-Java](https://github.com/SpigotPE-Team/SpigotPE-Java-edition)__
-* __[Nukkit-Java9](https://github.com/Rsplwe/Nukkit-Java9)__
-* __[voxelwind](https://github.com/SupremeMortal/voxelwind)__
 ### Discontinued (A-Z Order)
 * __[BukkitPE](https://github.com/BukkitPE/BukkitPE)__
 * __[DiamondCore](https://github.com/yungtechboy1/DiamondCore)__
@@ -87,6 +88,8 @@
 * __[Voxelwind](https://github.com/voxelwind/voxelwind)__
 * __[CoreX](https://github.com/CoreXDevelopment/CoreX)__
 * __[Jenisys3](https://github.com/FrontierDevs/Jenisys3)__
+* __[voxelwind](https://github.com/voxelwind/voxelwind)__
+* __[Nukkit-Java9](https://github.com/Rsplwe/Nukkit-Java9)__
 
 ## [Written in C#](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list) 
 ### Still Active (A-Z Order)
