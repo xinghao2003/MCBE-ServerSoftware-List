@@ -20,11 +20,11 @@
   
 ## [Written in PHP](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
 ### Still Active (A-Z Order)
+* __[Altay](https://github.com/TuranicTeam/Altay)__
 * __[Apollo-Legacy](https://github.com/Apollo-SoftwareTeam/Apollo-Legacy)__
 * __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
-* __[Turanic](https://github.com/TuranicTeam/Turanic)__
 * __[DarkSystem](https://github.com/DarkSystem-PE/DarkSystem)__
 * __[Extropy](https://github.com/ConflictPE/Extropy)__
 * __[able-mp](https://github.com/AbleUnion/able-mp)__
@@ -59,6 +59,7 @@
 * __[T-STAR](https://github.com/TaleStar/T-STAR)__
 * __[NewTesseract](https://github.com/NewTesseractTeam/NewTesseract)__
 * __[Tesseract](https://github.com/ServerSoftwareArchiveTeam/Tesseract)__
+* __[Turanic](https://github.com/TuranicTeam/Turanic)__
 * __[Rocky](https://github.com/ServerSoftwareArchiveTeam/Rocky)__
 * __[Utopia](https://github.com/HybridPE/Utopia)__
 * __[SkyLightPM](https://github.com/SkyLightMCPE/SkyLightPM)__
