@@ -1,12 +1,12 @@
 # Minecraft : Bedrock Edition Server Software List
-  - Last Updated : 2018.01.09
+  - Last Updated : 2018.02.03
   - You are allow to create issues to let me know the new server software that you found on Github
   - If the server software almost one month didn't update it will be mark as discontinued
   - The list below can make you easy to find the server software that you want 
   
 | Language | Status |
 | ------ | ------ |
-| [PHP](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-php) | Still Active : 10 < Discontinued : 35 |
+| [PHP](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-php) | Still Active : 8 < Discontinued : 37 |
 | [Java](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-java) | Still Active : 3 < Discontinued : 13 |
 | [C#](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-c) | Still Active : 1 < Discontinued : 2 |
 | [Javascript](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-javascript) | Still Active : 1 < Discontinued : 3 |
@@ -21,18 +21,18 @@
 ## [Written in PHP](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
 ### Still Active (A-Z Order)
 * __[Altay](https://github.com/TuranicTeam/Altay)__
-* __[Apollo-Legacy](https://github.com/Apollo-SoftwareTeam/Apollo-Legacy)__
-* __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
+* __[Apollo](https://github.com/Apollo-SoftwareTeam/Apollo)__
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
 * __[DarkSystem](https://github.com/DarkSystem-PE/DarkSystem)__
 * __[Extropy](https://github.com/ConflictPE/Extropy)__
 * __[able-mp](https://github.com/AbleUnion/able-mp)__
-* __[NightMoon](https://github.com/NightMoonTeam/NightMoon)__
 * __[DragMine](https://github.com/DragMineTeam/DragMine)__
 ### Discontinued (A-Z Order)
 * __[AtmosPE](https://github.com/AtmosPE/AtmosPE)__
 * __[Apollo](https://github.com/caspervanneck/Apollo)__
+* __[BlueLight](https://github.com/BlueLightJapan/BlueLight)__
+* __[NightMoon](https://github.com/NightMoonTeam/NightMoon)__
 * __[Arufa](https://github.com/Jonathanftw/Arufa)__
 * __[Endako](https://github.com/LeronDoesGM/Endako)__
 * __[Elywing](https://github.com/H4PM/Elywing)__
