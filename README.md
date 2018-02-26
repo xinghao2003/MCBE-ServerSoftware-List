@@ -6,27 +6,50 @@
   
 | Language | Status |
 | ------ | ------ |
-| [PHP](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-php) | Still Active : 6 < Discontinued : 39 |
-| [Java](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-java) | Still Active : 3 < Discontinued : 13 |
-| [C#](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-c) | Still Active : 1 < Discontinued : 2 |
-| [Javascript](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-javascript) | Still Active : 1 < Discontinued : 3 |
-| [Python](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-python) | Still Active : 0 < Discontinued : 2 |
-| [D](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-d) | Still Active : 1 < Discontinued : 0 |
-| [Lua](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-lua) | Still Active : 0 < Discontinued : 1 |
-| [Go](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-go) | Still Active : 1 = Discontinued : 1 |
-| [Rust](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-rust) | Still Active : 0 < Discontinued : 2 |
-| [C++](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-c-1) | Still Active : 0 < Discontinued : 2 |
-| [Swift](https://github.com/xinghao2003/MCPE-ServerSoftware-List#written-in-swift) | Still Active : 0 < Discontinued : 1 |
-  
-## [Written in PHP](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
-### Still Active (A-Z Order)
+| PHP | Still Active : 6 < Discontinued : 39 |
+| Java | Still Active : 3 < Discontinued : 13 |
+| C# | Still Active : 1 < Discontinued : 2 |
+| Javascript | Still Active : 1 < Discontinued : 3 |
+| Python | Still Active : 0 < Discontinued : 2 |
+| D | Still Active : 1 < Discontinued : 0 |
+| Lua | Still Active : 0 < Discontinued : 1 |
+| Go | Still Active : 1 = Discontinued : 1 |
+| Rust | Still Active : 0 < Discontinued : 2 |
+| C++ | Still Active : 0 < Discontinued : 2 |
+| Swift | Still Active : 0 < Discontinued : 1 |
+
+## Still Active (A-Z Order)
+### PHP
 * __[Altay](https://github.com/TuranicTeam/Altay)__
 * __[Apollo-Legacy](https://github.com/Apollo-SoftwareTeam/Apollo-Legacy)__
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
 * __[Extropy](https://github.com/ConflictPE/Extropy)__
 * __[DragMine](https://github.com/DragMineTeam/DragMine)__
-### Discontinued (A-Z Order)
+
+### Java
+* __[Jupiter](https://github.com/JupiterDevelopmentTeam/JupiterDevelopmentTeam)__
+* __[Nukkit](https://github.com/Nukkit/Nukkit)__
+ - * __[NukkitX-version](https://github.com/NukkitX/Nukkit)__
+ - * __[ncnncn-version](https://github.com/ncnncn/Nukkit)__
+ - * __[PetteriM1-version](https://github.com/PetteriM1/Nukkit)__
+ - * __[kvetinac97-version](https://github.com/kvetinac97/Nukkit)__
+* __[SpigotPE-Java](https://github.com/SpigotPE-Team/SpigotPE-Java-edition)__
+
+### C#
+* __[MiNET](https://github.com/NiclasOlofsson/MiNET)__
+
+### JavaScript
+* __[PocketNode](https://github.com/PocketNode/PocketNode)__
+
+### D
+* __[Selery](https://github.com/sel-project/selery)__
+
+### Go
+* __[GoMine](https://github.com/Irmine/GoMine)__
+
+## Discontinued (A-Z Order)
+### PHP
 * __[AtmosPE](https://github.com/AtmosPE/AtmosPE)__
 * __[Apollo](https://github.com/caspervanneck/Apollo)__
 * __[able-mp](https://github.com/AbleUnion/able-mp)__
@@ -68,16 +91,7 @@
 * __[Eventaxhl](https://github.com/EventaxhlTeam/Eventaxhl)__
 * __[ClearSkyTeam-PocketMine-MP](https://github.com/ClearSkyTeam/PocketMine-MP)__
 
-## [Written in Java](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
-### Still Active (A-Z Order)
-* __[Jupiter](https://github.com/JupiterDevelopmentTeam/JupiterDevelopmentTeam)__
-* __[Nukkit](https://github.com/Nukkit/Nukkit)__
- - * __[NukkitX-version](https://github.com/NukkitX/Nukkit)__
- - * __[ncnncn-version](https://github.com/ncnncn/Nukkit)__
- - * __[PetteriM1-version](https://github.com/PetteriM1/Nukkit)__
- - * __[kvetinac97-version](https://github.com/kvetinac97/Nukkit)__
-* __[SpigotPE-Java](https://github.com/SpigotPE-Team/SpigotPE-Java-edition)__
-### Discontinued (A-Z Order)
+### Java
 * __[BukkitPE](https://github.com/BukkitPE/BukkitPE)__
 * __[DiamondCore](https://github.com/yungtechboy1/DiamondCore)__
 * __[Dragonet](https://github.com/DragonetMC/Dragonet)__
@@ -92,62 +106,32 @@
 * __[voxelwind](https://github.com/voxelwind/voxelwind)__
 * __[Nukkit-Java9](https://github.com/Rsplwe/Nukkit-Java9)__
 
-## [Written in C#](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list) 
-### Still Active (A-Z Order)
-* __[MiNET](https://github.com/NiclasOlofsson/MiNET)__
-### Discontinued (A-Z Order)
+### C#
 * __[NetherServ](https://github.com/protosleep/NetherServ)__
 * __[ZhyCore](https://github.com/ZhyTeam/ZhyCore)__
 
-## [Written in JavaScript](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
-### Still Active (A-Z Order)
-* __[PocketNode](https://github.com/PocketNode/PocketNode)__
-### Discontinued (A-Z Order)
+### JavaScript
 * __[DirtServer](https://github.com/Falkirks/DirtServer)__
 * __[NodeMine](https://github.com/NodeMine/NodeMine)__
 * __[Numerous-alpaca](https://github.com/numerous-alpaca/numerous-alpaca)__
 
-## [Written in Python](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
-### Still Active (A-Z Order)
-
-### Discontinued (A-Z Order)
+### Python
 * __[AlphaMC](https://github.com/Suppert/AlphaMC)__
 * __[Neos](https://github.com/daniktheboss/Neos)__
 
-## [Written in D](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
-### Still Active (A-Z Order)
-* __[Selery](https://github.com/sel-project/selery)__
-
-### Discontinued (A-Z Order)
-
-## [Written in Lua](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
-### Still Active (A-Z Order)
-
-### Discontinued (A-Z Order)
+### Lua
 * __[LuaMine](https://github.com/LuaMine/LuaMine)__
 
-## [Written in Go](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
-### Still Active (A-Z Order)
-* __[GoMine](https://github.com/Irmine/GoMine)__
-### Discontinued (A-Z Order)
+### Go
 * __[Rockit-LMS](https://github.com/cr0sh/Rockit-LMS)__
 
-## [Written in Rust](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
-### Still Active (A-Z Order)
-
-### Discontinued (A-Z Order)
+### Rust
 * __[Limonite](https://github.com/iTXTech/limonite)__
 * __[blaise](https://github.com/epsimatt/blaise)__
 
-## [Written in C++](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
-### Still Active (A-Z Order)
-
-### Discontinued (A-Z Order)
+### C++
 * __[Cenisys](https://github.com/iTXTech/Cenisys)__
 * __[CenisysPro](https://github.com/GenisysPro/CenisysPro)__
 
-## [Written in Swift](https://github.com/xinghao2003/MCPE-ServerSoftware-List#minecraft--bedrock-edition-server-software-list)
-### Still Active (A-Z Order)
-
-### Discontinued (A-Z Order)
+### Swift
 * __[SwiftMine](https://github.com/DDSSwiftTech/SwiftMine)__
