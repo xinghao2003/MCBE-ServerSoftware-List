@@ -101,7 +101,6 @@
 * __[MCPEBukkit](https://github.com/MCPEBukkit/MCPEBukkit)__
 * __[MineTurtle](https://github.com/MCPEBukkit/MineTurtle)__
 * __[SpiderMine](https://github.com/QuantumWorks/SpiderMine)__
-* __[Voxelwind](https://github.com/voxelwind/voxelwind)__
 * __[CoreX](https://github.com/CoreXDevelopment/CoreX)__
 * __[Jenisys3](https://github.com/FrontierDevs/Jenisys3)__
 * __[voxelwind](https://github.com/voxelwind/voxelwind)__
