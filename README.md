@@ -1,4 +1,4 @@
-# Minecraft : Bedrock Edition Server Software List
+# Minecraft : Broken Edition Server Software List
   - Last Updated : 2018.03.10
   - You are allow to create issues to let me know the new server software that you found on Github
   - If the server software almost one month didn't update it will be mark as discontinued
