@@ -13,7 +13,7 @@
 | Python | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#python) : 2 |
 | D | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#d) : 1 |
 | Lua | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#lua) : 1 |
-| Go | Still Active : 0 = [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#go-1) : 2 |
+| Go | Still Active : 1 = [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#go-1) : 2 |
 | Rust | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#rust) : 2 |
 | C++ | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c-2) : 2 |
 | Swift | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#swift) : 1 |
@@ -115,6 +115,7 @@
 ### [Go](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
 * __[Rockit-LMS](https://github.com/cr0sh/Rockit-LMS)__
 * __[GoMine](https://github.com/Irmine/GoMine)__
+* __[SpecterGO](https://github.com/SpecterTeam/SpecterGO)__
 
 ### [Rust](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
 * __[Limonite](https://github.com/iTXTech/limonite)__
