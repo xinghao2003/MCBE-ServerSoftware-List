@@ -7,7 +7,7 @@
 | Language | Status |
 | ------ | ------ |
 | PHP | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#php) : 3 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#php-1) : 42 |
-| Java | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java) : 3 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java-1) : 15 |
+| Java | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java) : 2 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java-1) : 16 |
 | C# | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c) : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c-1) : 2 |
 | Javascript | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#javascript-1) : 5 |
 | Python | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#python) : 2 |
@@ -26,7 +26,6 @@
 
 ### [Java](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
 * __[NukkitX-version](https://github.com/NukkitX/Nukkit)__
-* __[GoMint](https://github.com/GoMint/GoMint)__
 * __[Nukkit PetteriM1 Edition](https://github.com/PetteriM1/NukkitPetteriM1Edition)__
 
 ### [C#](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
@@ -84,6 +83,7 @@
 ### [Java](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
 * __[Nukkit](https://github.com/Nukkit/Nukkit)__
 * __[BukkitPE](https://github.com/BukkitPE/BukkitPE)__
+* __[GoMint](https://github.com/GoMint/GoMint)__
 * __[DiamondCore](https://github.com/yungtechboy1/DiamondCore)__
 * __[Dragonet](https://github.com/DragonetMC/Dragonet)__
 * __[Dragonet-Legacy](https://github.com/DragonetMC/Dragonet-Legacy)__
