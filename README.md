@@ -23,6 +23,7 @@
 * __[Altay](https://github.com/TuranicTeam/Altay)__
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
+* __[Foxel](https://github.com/BedrockPlay/Foxel/)__
 
 ### [Java](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
 * __[NukkitX-version](https://github.com/NukkitX/Nukkit)__
