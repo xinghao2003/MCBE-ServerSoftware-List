@@ -6,7 +6,7 @@
   
 | Language | Status |
 | ------ | ------ |
-| PHP | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#php) : 3 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#php-1) : 42 |
+| PHP | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#php) : 4 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#php-1) : 42 |
 | Java | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java) : 2 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java-1) : 16 |
 | C# | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c) : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c-1) : 2 |
 | Javascript | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#javascript-1) : 5 |
@@ -23,6 +23,7 @@
 * __[Altay](https://github.com/TuranicTeam/Altay)__
 * __[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)__
 * __[SteadFast2](https://github.com/Hydreon/Steadfast2)__
+* __[Foxel](https://github.com/BedrockPlay/Foxel)__
 
 ### [Java](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
 * __[NukkitX-version](https://github.com/NukkitX/Nukkit)__
