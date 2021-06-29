@@ -113,6 +113,7 @@
 * __[Numerous-alpaca](https://github.com/numerous-alpaca/numerous-alpaca)__
 * __[PocketNode](https://github.com/PocketNode/PocketNode)__
 * __[MineJS](https://github.com/organization/MineJS)__
+* __[BDSX](https://github.com/bdsx/bdsx)__
 
 ### [Python](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
 * __[AlphaMC](https://github.com/Suppert/AlphaMC)__
