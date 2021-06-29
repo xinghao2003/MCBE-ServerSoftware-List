@@ -7,7 +7,7 @@
 | Language | Status |
 | ------ | ------ |
 | PHP | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#php) : 3 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#php-1) : 42 |
-| Java | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java) : 3 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java-1) : 16 |
+| Java | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java) : 3 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java-1) : 13 |
 | C# | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c) : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c-1) : 2 |
 | Javascript | Still Active : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#javascript-1) : 5 |
 | Python | Still Active : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#python) : 2 |
@@ -98,11 +98,8 @@
 * __[MineTurtle](https://github.com/MCPEBukkit/MineTurtle)__
 * __[SpiderMine](https://github.com/QuantumWorks/SpiderMine)__
 * __[Voxelwind](https://github.com/voxelwind/voxelwind)__
-* __[CoreX](https://github.com/CoreXDevelopment/CoreX)__
 * __[Jenisys3](https://github.com/FrontierDevs/Jenisys3)__
 * __[voxelwind](https://github.com/voxelwind/voxelwind)__
-* __[Nukkit-Java9](https://github.com/Rsplwe/Nukkit-Java9)__
-* __[Jupiter](https://github.com/JupiterDevelopmentTeam/JupiterDevelopmentTeam)__
 
 ### [C#](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
 * __[NetherServ](https://github.com/protosleep/NetherServ)__
