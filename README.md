@@ -8,7 +8,7 @@
 | ------ | ------ |
 | PHP | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#php) : 3 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#php-1) : 42 |
 | Java | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java) : 3 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java-1) : 13 |
-| C# | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c) : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c-1) : 2 |
+| C# | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c) : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c-1) : 1 |
 | Javascript | Still Active : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#javascript-1) : 5 |
 | Python | Still Active : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#python) : 2 |
 | D | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#d) : 1 |
@@ -103,7 +103,6 @@
 
 ### [C#](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
 * __[NetherServ](https://github.com/protosleep/NetherServ)__
-* __[ZhyCore](https://github.com/ZhyTeam/ZhyCore)__
 
 ### [JavaScript](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
 * __[DirtServer](https://github.com/Falkirks/DirtServer)__
