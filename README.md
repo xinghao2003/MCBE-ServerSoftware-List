@@ -7,7 +7,7 @@
 | Language | Status |
 | ------ | ------ |
 | PHP | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#php) : 3 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#php-1) : 42 |
-| Java | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java) : 3 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java-1) : 13 |
+| Java | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java) : 4 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java-1) : 13 |
 | C# | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c) : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c-1) : 1 |
 | Javascript | Still Active : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#javascript-1) : 5 |
 | Python | Still Active : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#python) : 1 |
@@ -26,6 +26,7 @@
 * __[NukkitX-version](https://github.com/NukkitX/Nukkit)__
 * __[Nukkit PetteriM1 Edition](https://github.com/PetteriM1/NukkitPetteriM1Edition)__
 * __[JukeBoxMC](https://github.com/LucGamesYT/JukeboxMC)__
+* __[DiamondCore](https://github.com/DRAGKILLS/DiamondCore)__
 
 ### [Python](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
 * __[Podrum](https://github.com/Podrum/Podrum)__
@@ -90,7 +91,6 @@
 * __[Nukkit](https://github.com/Nukkit/Nukkit)__
 * __[BukkitPE](https://github.com/BukkitPE/BukkitPE)__
 * __[GoMint](https://github.com/GoMint/GoMint)__
-* __[DiamondCore](https://github.com/yungtechboy1/DiamondCore)__
 * __[Dragonet](https://github.com/DragonetMC/Dragonet)__
 * __[Dragonet-Legacy](https://github.com/DragonetMC/Dragonet-Legacy)__
 * __[MagmaBlock](https://github.com/PrismarineMC/MagmaBlock)__
