@@ -40,7 +40,7 @@
 
 ### [Go](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
 
-*__[DragonFly](https://github.com/df-mc/dragonfly)__
+* __[DragonFly](https://github.com/df-mc/dragonfly)__
 
 ## Discontinued (A-Z Order)
 ### [PHP](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
