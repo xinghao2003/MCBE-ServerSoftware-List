@@ -1,5 +1,5 @@
 # Minecraft : Bedrock Edition Server Software List
-  - Last Updated : 9/7/2021
+  - Last Updated : 30/7/2021
   - You are allow to create issues to let me know the new server software that you found on Github
   - If the server software almost one month didn't update it will be mark as discontinued
   - The list below can make you easy to find the server software that you want 
