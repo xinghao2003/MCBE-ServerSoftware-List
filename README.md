@@ -1,5 +1,5 @@
 # Minecraft : Bedrock Edition Server Software List
-  - Last Updated : 30/7/2021
+  - Last Updated : 23/8/2021
   - You are allow to create issues to let me know the new server software that you found on Github
   - If the server software almost one month didn't update it will be mark as discontinued
   - The list below can make you easy to find the server software that you want 
@@ -7,7 +7,7 @@
 | Language | Status |
 | ------ | ------ |
 | PHP | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#php) : 3 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#php-1) : 42 |
-| Java | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java) : 4 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java-1) : 13 |
+| Java | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java) : 5 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#java-1) : 13 |
 | C# | [Still Active](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c) : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c-1) : 1 |
 | Javascript | Still Active : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#javascript-1) : 5 |
 | Python | Still Active : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#python) : 1 |
@@ -27,6 +27,7 @@
 * __[Nukkit PetteriM1 Edition](https://github.com/PetteriM1/NukkitPetteriM1Edition)__
 * __[JukeBoxMC](https://github.com/LucGamesYT/JukeboxMC)__
 * __[DiamondCore](https://github.com/DRAGKILLS/DiamondCore)__
+* __[PowerNukkit](https://github.com/PowerNukkit/PowerNukkit)__
 
 ### [Python](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
 * __[Podrum](https://github.com/Podrum/Podrum)__
