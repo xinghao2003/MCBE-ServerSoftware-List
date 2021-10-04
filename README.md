@@ -1,5 +1,5 @@
 # Minecraft : Bedrock Edition Server Software List
-  - Last Updated : 30/7/2021
+  - Last Updated : 3/8/2021
   - You are allow to create issues to let me know the new server software that you found on Github
   - If the server software almost one month didn't update it will be mark as discontinued
   - The list below can make you easy to find the server software that you want 
@@ -13,7 +13,7 @@
 | Python | Still Active : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#python) : 1 |
 | D | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#d) : 1 |
 | Go | Still Active : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#go-1) : 3 |
-| Rust | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#rust) : 1 |
+| Rust | Still Active : 1 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#rust) : 1 |
 | C++ | Still Active : 0 < [Discontinued](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#c-2) : 2 |
 
 ## Still Active (A-Z Order)
@@ -35,12 +35,13 @@
 * __[BDSX](https://github.com/bdsx/bdsx)__
 
 ### [C#](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
-
 * __[MiNET](https://github.com/NiclasOlofsson/MiNET)__
 
 ### [Go](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
-
 * __[DragonFly](https://github.com/df-mc/dragonfly)__
+
+### [Rust](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
+* __[Netrex](https://github.com/NetrexMC/Netrex)__
 
 ## Discontinued (A-Z Order)
 ### [PHP](https://github.com/xinghao2003/MCPE-ServerSoftware-List/blob/master/README.md#minecraft--bedrock-edition-server-software-list)
